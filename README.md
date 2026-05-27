@@ -89,7 +89,7 @@ Agentic systems need more than prompts. They need structure, memory, tools, gove
 
 Get the complete PDF here:
 
-[**Buy Agentic Systems: The Cybernetic Workflow Codex — $9.99**](https://payhip.com/b/sqvLU)
+<a href="https://payhip.com/b/sqvLU" target="_blank" rel="noopener noreferrer"><strong>Buy Agentic Systems: The Cybernetic Workflow Codex — $9.99</strong></a>
 
 ---
 
@@ -120,4 +120,4 @@ The framework helps architects reason through:
 
 If you want to move beyond simple prompts and begin thinking like an AI systems architect, this guide is built for you.
 
-[**Purchase the guide on PayHip**](https://payhip.com/b/sqvLU)
+<a href="https://payhip.com/b/sqvLU" target="_blank" rel="noopener noreferrer"><strong>Purchase the guide on PayHip</strong></a>
