@@ -121,3 +121,8 @@ The framework helps architects reason through:
 If you want to move beyond simple prompts and begin thinking like an AI systems architect, this guide is built for you.
 
 <a href="https://payhip.com/b/sqvLU" target="_blank" rel="noopener noreferrer"><strong>Purchase the guide on PayHip</strong></a>
+
+##Visit my Frontier Digital Studio for more AI Products:
+
+<a href="https://payhip.com/FrontierDigitalStudio" target="_blank" rel="noopener noreferrer"<strong>Frontier Digital Studio</strong></a>
+
