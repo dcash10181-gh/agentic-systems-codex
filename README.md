@@ -124,5 +124,5 @@ If you want to move beyond simple prompts and begin thinking like an AI systems 
 
 ##Visit my Frontier Digital Studio for more AI Products:
 
-<a href="https://payhip.com/FrontierDigitalStudio" target="_blank" rel="noopener noreferrer"<strong>Frontier Digital Studio</strong></a>
+<a href="https://payhip.com/FrontierDigitalStudio" target="_blank" rel="noopener noreferrer"><strong>Frontier Digital Studio</strong></a>
 
